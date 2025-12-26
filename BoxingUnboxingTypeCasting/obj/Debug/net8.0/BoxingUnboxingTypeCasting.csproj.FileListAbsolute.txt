@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\bin\Debug\net8.0\BoxingUnboxingTypeCasting.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\bin\Debug\net8.0\BoxingUnboxingTypeCasting.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\bin\Debug\net8.0\BoxingUnboxingTypeCasting.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\bin\Debug\net8.0\BoxingUnboxingTypeCasting.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\bin\Debug\net8.0\BoxingUnboxingTypeCasting.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\refint\BoxingUnboxingTypeCasting.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\BoxingUnboxingTypeCasting.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BoxingUnboxingTypeCasting\obj\Debug\net8.0\ref\BoxingUnboxingTypeCasting.dll

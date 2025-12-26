@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BVSAttribute\bin\Debug\BVSAttribute.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BVSAttribute\bin\Debug\BVSAttribute.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BVSAttribute\obj\Debug\BVSAttribute.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BVSAttribute\obj\Debug\BVSAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BVSAttribute\obj\Debug\BVSAttribute.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\BVSAttribute\obj\Debug\BVSAttribute.pdb

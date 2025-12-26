@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ClassLibraryForReflection\bin\Debug\ClassLibraryForReflection.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ClassLibraryForReflection\bin\Debug\ClassLibraryForReflection.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ClassLibraryForReflection\obj\Debug\ClassLibraryForReflection.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ClassLibraryForReflection\obj\Debug\ClassLibraryForReflection.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ClassLibraryForReflection\obj\Debug\ClassLibraryForReflection.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ClassLibraryForReflection\obj\Debug\ClassLibraryForReflection.pdb

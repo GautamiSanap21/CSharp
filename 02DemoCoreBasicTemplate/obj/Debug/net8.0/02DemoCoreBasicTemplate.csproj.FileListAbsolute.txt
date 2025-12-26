@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\bin\Debug\net8.0\02DemoCoreBasicTemplate.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\bin\Debug\net8.0\02DemoCoreBasicTemplate.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\bin\Debug\net8.0\02DemoCoreBasicTemplate.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\bin\Debug\net8.0\02DemoCoreBasicTemplate.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\bin\Debug\net8.0\02DemoCoreBasicTemplate.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\refint\02DemoCoreBasicTemplate.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\02DemoCoreBasicTemplate.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\02DemoCoreBasicTemplate\obj\Debug\net8.0\ref\02DemoCoreBasicTemplate.dll

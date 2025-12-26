@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CustomAttributes\bin\Debug\CustomAttributes.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CustomAttributes\bin\Debug\CustomAttributes.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CustomAttributes\obj\Debug\CustomAttributes.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CustomAttributes\obj\Debug\CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CustomAttributes\obj\Debug\CustomAttributes.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CustomAttributes\obj\Debug\CustomAttributes.pdb

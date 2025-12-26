@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\bin\Debug\EmpLib.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\bin\Debug\EmpLib.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\bin\Debug\BVSAttribute.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\bin\Debug\CustomAttributes.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\bin\Debug\BVSAttribute.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\bin\Debug\CustomAttributes.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\obj\Debug\EmpLib.csproj.Up2Date
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\obj\Debug\EmpLib.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EmpLib\obj\Debug\EmpLib.pdb

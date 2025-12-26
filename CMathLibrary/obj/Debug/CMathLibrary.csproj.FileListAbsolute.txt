@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CMathLibrary\bin\Debug\CMathLibrary.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CMathLibrary\bin\Debug\CMathLibrary.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CMathLibrary\obj\Debug\CMathLibrary.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CMathLibrary\obj\Debug\CMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CMathLibrary\obj\Debug\CMathLibrary.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\CMathLibrary\obj\Debug\CMathLibrary.pdb

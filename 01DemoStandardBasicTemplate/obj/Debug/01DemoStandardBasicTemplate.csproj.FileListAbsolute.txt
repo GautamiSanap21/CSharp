@@ -1,0 +1,8 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\bin\Debug\01DemoStandardBasicTemplate.exe.config
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\bin\Debug\01DemoStandardBasicTemplate.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\bin\Debug\01DemoStandardBasicTemplate.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\obj\Debug\01DemoStandardBasicTemplate.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\obj\Debug\01DemoStandardBasicTemplate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\obj\Debug\01DemoStandardBasicTemplate.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\obj\Debug\01DemoStandardBasicTemplate.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\01DemoStandardBasicTemplate\obj\Debug\01DemoStandardBasicTemplate.exe.config

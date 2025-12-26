@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\bin\Debug\net8.0\EventsAndDelegates.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\refint\EventsAndDelegates.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\EventsAndDelegates\obj\Debug\net8.0\ref\EventsAndDelegates.dll

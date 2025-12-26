@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\refint\DelegateDemo.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\DelegateDemo\obj\Debug\net8.0\ref\DelegateDemo.dll

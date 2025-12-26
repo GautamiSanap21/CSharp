@@ -1,0 +1,36 @@
+﻿using System;
+using CustomAttributes;
+using BVSAttribute;
+
+namespace EmpLib
+{
+    [BonaventureSystems(CompanyName = "BVS", DeveloperName ="Abc")]
+    [Serializable]
+    [Table(TableName = "Employee ")]
+    public class Emp
+    {
+        private int _Id;
+        private string _Name;
+        private string _Address;
+
+        [Column(ColumnName = "EId", ColumnType = "int")]
+        public int Id
+        {
+            get { return _Id; }
+            set { _Id = value; }
+        }
+        [Column(ColumnName = "EName", ColumnType = "varchar(50)")]
+        public string Name
+        {
+            get { return _Name; }
+            set { _Name = value; }
+        }
+        [Column(ColumnName = "EAddress", ColumnType = "varchar(50)")]
+        public string Address
+        {
+            get { return _Address; }
+            set { _Address = value; }
+        }
+
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\bin\Debug\net8.0\Tuples.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\bin\Debug\net8.0\Tuples.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\bin\Debug\net8.0\Tuples.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\bin\Debug\net8.0\Tuples.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\bin\Debug\net8.0\Tuples.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\refint\Tuples.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\Tuples.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\Tuples\obj\Debug\net8.0\ref\Tuples.dll

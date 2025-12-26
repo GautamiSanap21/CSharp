@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\refint\PrimeNumbers.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\PrimeNumbers\obj\Debug\net8.0\ref\PrimeNumbers.dll

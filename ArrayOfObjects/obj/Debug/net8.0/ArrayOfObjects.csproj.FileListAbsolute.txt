@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.exe
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.deps.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.runtimeconfig.json
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\refint\ArrayOfObjects.dll
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.pdb
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920024\CSharp\CSharpDemo\ArrayOfObjects\obj\Debug\net8.0\ref\ArrayOfObjects.dll
